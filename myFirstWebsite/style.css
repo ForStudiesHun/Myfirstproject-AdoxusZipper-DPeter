@@ -43,8 +43,7 @@ ul li{
     display: inline-flex;
     padding:10px;
     font-size:20px;
-    float:inline-end;
-    
+    float:right; 
 }
 a{
     color: #ff0099;
